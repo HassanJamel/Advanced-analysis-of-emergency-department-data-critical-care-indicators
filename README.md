@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="تحليل لوحة بيانات مؤشرات العناية الحرجة.png" alt=" Exploratory Data Analysis (EDA) " width="900"/>
+</p>
 # تحليل متقدم لبيانات قسم الطوارئ
 ## مؤشرات العناية الحرجة
 
